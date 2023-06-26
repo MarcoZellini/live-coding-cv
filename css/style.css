@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: lightgray;
+    text-align: center;
+    border-bottom: 2px solid orange;
+}
+
+img {
+    width: 150px;
+}
+
+h1 {
+    padding: 15px;
+}
+
+.element > h3 {
+    font-style: italic;
+}
+
+section > h2 {
+    color: orange;
+}
+
+h2, h3, p {
+    padding: 10px;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+footer {
+    border-top: 2px solid orange;
+}
